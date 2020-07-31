@@ -1,5 +1,5 @@
 runtime_requirements = [
-    'flask'
+    'flask==1.1.2'
 ]
 
 minimum_python_version = (3, 5, 0)

@@ -1,7 +1,7 @@
 # Saner Dependency Management in Python
 
-This is the companion repo to my video talking about a better way to manage
-dependencies in Python.
+This is the companion repo to my [YouTube video](https://youtu.be/aWVzR296XcU) talking
+about a better way to manage dependencies in Python.
 
 
 ## Prepare Your Python Environment
