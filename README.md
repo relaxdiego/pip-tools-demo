@@ -87,16 +87,6 @@ git push origin
 ```
 
 
-## Testing and Building the Charm
-
-After any change in the charm code, you want to ensure that all unit tests
-pass before building it. This can be easily done by running:
-
-```
-make test build
-```
-
-
 ## Need A Fresh Start?
 
 Sigh, what I'd give to get a fresh start in life too. Huh? Oh you mean a fresh start
