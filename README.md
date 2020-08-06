@@ -3,6 +3,10 @@
 This is the companion repo to my [YouTube video](https://youtu.be/aWVzR296XcU) talking
 about a better way to manage dependencies in Python.
 
+## Previous Art
+
+1. [RIP Pipenv: Tried Too Hard. Do what you need with pip-tools.](https://medium.com/telnyx-engineering/rip-pipenv-tried-too-hard-do-what-you-need-with-pip-tools-d500edc161d4)
+2. [Python Application Dependency Management in 2018](https://hynek.me/articles/python-app-deps-2018/)
 
 ## Prepare Your Python Environment
 
